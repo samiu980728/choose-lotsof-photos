@@ -3,3 +3,5 @@
 写关于photoKit的wiki     
 继续写wiki     
 完成wiki     
+继续重新写卡片切换效果     
+
